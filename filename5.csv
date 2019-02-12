@@ -1,0 +1,114 @@
+,Project Name,Topic,Description,Instructor,Designation
+0,Introduction to DataCamp Projects,PYTHON,"If you've never done a DataCamp project, this is the place to start! 
+",Rasmus Bååth,Senior Data Scientist at King (Activision Blizzard)
+1,Exploring 67 years of LEGO,PYTHON,"In this project we will explore a database of every LEGO set ever built.
+",Ramnath Vaidyanathan,
+2,Dr. Semmelweis and the Discovery of Handwashing,PYTHON,"Reanalyse the data behind one of the most important discoveries of modern medicine: Handwashing.
+",Rasmus Bååth,Senior Data Scientist at King (Activision Blizzard)
+3,Exploring the Bitcoin cryptocurrency market,PYTHON,"You will explore the market capitalization of Bitcoin and other cryptocurrencies.
+",Juan González-Vallinas,Data Scientist at ABN AMRO
+4,A Network analysis of Game of Thrones,PYTHON,"Analyze the network of characters in Game of Thrones and how it changes over the course of the books.
+",Mridul Seth,Data science enthusiast
+5,Risk and Returns: The Sharpe Ratio,PYTHON,"Use pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio.
+",Stefan Jansen,Founder & Lead Data Scientist at Applied Artificial Intelligence
+6,Exploring the evolution of Linux,PYTHON,"Find out about the development of the Linux operating system by exploring its Git repository history.
+",Markus Harrer,Software Development Analyst
+7,A New Era of Data Analysis in Baseball,PYTHON,"Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton.
+",David Venturi,Instructor at DataCamp
+8,Word Frequency in Moby Dick,PYTHON,"Use web scraping and NLP to find the most frequent words in Herman Melville's novel, Moby Dick.
+",Hugo Bowne-Anderson,Data Scientist at DataCamp
+9,The Hottest Topics in Machine Learning,PYTHON,"Use Natural Language Processing on NIPS papers to uncover the trendiest topics in machine learning research.
+",Lars Hulstaert,Data Scientist at Microsoft
+10,Naïve Bees: Image Loading and Processing,PYTHON,"Load, transform, and understand images of honey bees and bumble bees in Python.
+",Peter Bull,Co-founder of DrivenData
+11,Name Game: Gender Prediction using Sound,PYTHON,"Analyze the gender distribution of children's book writers and use sound to match names to gender.
+",Tufool Alnuaimi,Academic entrepreneur with a focus on data science
+12,Mobile Games A/B Testing with Cookie Cats,PYTHON,"Analyze an A/B test from the popular mobile puzzle game, Cookie Cats.
+",Rasmus Bååth,Senior Data Scientist at King (Activision Blizzard)
+13,Recreating John Snow's Ghost Map,PYTHON,"Recreate John Snow's famous map of the 1854 cholera outbreak in London.
+",Radovan Kavicky,President and Principal Data Scientist at GapData Institute
+14,Generating Keywords for Google Ads,PYTHON,"Automatically generate keywords for a search engine marketing campaign using Python. 
+",Elias Dabbas,Owner at The Media Supermarket
+15,Classify Song Genres from Audio Data,PYTHON,"Rock or rap? Apply machine learning methods in Python to classify songs into genres.
+",Lina Tran,PhD Candidate at University of Toronto
+16,Bad passwords and the NIST guidelines,PYTHON,"Check what passwords fail to conform to the National Institute of Standards and Technology password guidelines.
+",Rasmus Bååth,Senior Data Scientist at King (Activision Blizzard)
+17,Naïve Bees: Predict Species from Images,PYTHON,"Build a model that can automatically detect honey bees and bumble bees in images.
+",Peter Bull,Co-founder of DrivenData
+18,The GitHub History of the Scala Language,PYTHON,"Find the true Scala experts by exploring its development history in Git and GitHub.
+",Anita Sarma,Associate Professor at Oregon State University
+19,"Who Is Drunk and When in Ames, Iowa?",PYTHON,"Flex your pandas muscles on breath alcohol test data from Ames, Iowa, USA.
+",Samantha Tyner,Postdoctoral Research Associate at Iowa State University
+20,A Visual History of Nobel Prize Winners,PYTHON,"Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed?
+",Rasmus Bååth,Senior Data Scientist at King (Activision Blizzard)
+21,Do Left-handed People Really Die Young?,PYTHON,"Use pandas and Bayesian statistics to see if left-handed people actually die earlier than righties.
+",Madeleine Bonsma-Fisher,PhD Candidate at University of Toronto
+22,Reducing Traffic Mortality in the USA,PYTHON,"How can we find a good strategy for reducing traffic-related deaths?
+",Joel Östblom,PhD Candidate at University of Toronto
+23,ASL Recognition with Deep Learning,PYTHON,"Build a convolutional neural network to classify images of letters from American Sign Language.
+",Alexis Cook,Machine Learning Educator at Kaggle
+24,Predicting Credit Card Approvals,PYTHON,"Build a machine learning model to predict if a credit card application will get approved. 
+",Sayak  Paul,Data Science Instructor
+25,"TV, Halftime Shows, and the Big Game",PYTHON,"Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows.
+",David Venturi,Instructor at DataCamp
+26,Naïve Bees: Deep Learning with Images,PYTHON,"Build a deep learning model that can automatically detect honey bees and bumble bees in images.
+",Emily Miller,Data Scientist at DrivenData
+27,Introduction to DataCamp Projects,R,"If you've never done a DataCamp project, this is the place to start! 
+",Rasmus Bååth,Senior Data Scientist at King (Activision Blizzard)
+28,Phyllotaxis: Draw flowers using mathematics,R,"Use R to make art and create imaginary flowers inspired by nature.
+",Antonio Sánchez Chinchón,Data Scientist at Telefónica
+29,Dr. Semmelweis and the Discovery of Handwashing,R,"Reanalyse the data behind one of the most important discoveries of modern medicine: Handwashing.
+",Rasmus Bååth,Senior Data Scientist at King (Activision Blizzard)
+30,Exploring the Kaggle Data Science Survey,R,"Discover what top tools Kaggle participants use for data science and machine learning.
+",Amber Thomas,Journalist-Engineer at The Pudding
+31,Level difficulty in Candy Crush Saga,R,"Analyse data from the mobile hit game Candy Crush Saga. 
+",Rasmus Bååth,Senior Data Scientist at King (Activision Blizzard)
+32,Wrangling and Visualizing Musical Data,R,"Wrangle and visualize musical data to find common chords and compare the styles of different artists.
+",Kris Shaffer,Data scientist and instructional technology specialist 
+33,"Who Is Drunk and When in Ames, Iowa?",R,"Flex your tidyverse muscles on breath alcohol test data from Ames, Iowa, USA.
+",Samantha Tyner,Postdoctoral Research Associate at Iowa State University
+34,Bad passwords and the NIST guidelines,R,"Check what passwords fail to conform to the National Institute of Standards and Technology password guidelines.
+",Rasmus Bååth,Senior Data Scientist at King (Activision Blizzard)
+35,A Visual History of Nobel Prize Winners,R,"Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed?
+",Rasmus Bååth,Senior Data Scientist at King (Activision Blizzard)
+36,Visualizing Inequalities in Life Expectancy,R,"Compare life expectancy across countries and genders with ggplot2.
+",Antonio Sánchez Chinchón,Data Scientist at Telefónica
+37,Predict Taxi Fares with Random Forests,R,"Use regression trees and random forests to find places where New York taxi drivers earn the most. 
+",Robert Grant,Founder & Data Sherpa at bayescamp.com
+38,Rise and Fall of Programming Languages,R,"Analyze the relative popularity of programming languages over time based on Stack Overflow data.
+",David Robinson,"Chief Data Scientist, DataCamp"
+39,Scout Your Athletics Fantasy Team,R,"Analyze athletics data to find new ways to scout and assess jumpers and throwers.
+",George Perry,Sports Scientist and Entrepreneur
+40,Explore 538's Halloween Candy Rankings,R,"Get ready for Halloween by digging into a FiveThirtyEight dataset with all your favorite candy! 
+",Nick Solomon,Data Scientist
+41,Functions for Food Price Forecasts,R,"Write functions to forecast time series of food prices in Rwanda.
+",Richie Cotton,Head of Content Quality at DataCamp
+42,What Your Heart Rate Is Telling You,R,"Examine the relationship between heart rate and heart disease using multiple logistic regression.
+",Amy Yang,Senior Data Scientist at Uptake
+43,Clustering Heart Disease Patient Data,R,Experiment with clustering algorithms to help doctors inform treatment for heart disease patients.,Megan Robertson,Data Scientist at Nike
+44,Where Are the Fishes?,R,"Explore acoustic backscatter data to find fish in the U.S. Atlantic Ocean. 
+",Erin LaBrecque,Instructor at DataCamp
+45,Degrees That Pay You Back,R,"Explore the salary potential of college majors with a k-means cluster analysis.
+",Jaclyn Burge,Senior Data Consultant at The Walt Disney Company
+46,A Text Analysis of Trump's Tweets,R,"Apply text mining to Donald Trump's tweets to confirm if he writes the (angrier) Android half. 
+",David Robinson,"Chief Data Scientist, DataCamp"
+47,Where Would You Open a Chipotle?,R,"Create and explore interactive maps using Leaflet to determine where to open the next Chipotle.
+",Rich Majerus,Assistant Vice President at Colby College
+48,Gender Bias in Graduate Admissions,R,"Analyze admissions data from UC Berkeley and find out if the university was biased against women.
+",Joshua Feldman,Data Scientist at BBC
+49,"Drunken Datetimes in Ames, Iowa",R,"Apply your skills from ""Working with Dates and Times in R"" to breathalyzer data from Ames, Iowa. 
+",Samantha Tyner,Postdoctoral Research Associate at Iowa State University
+50,Reducing Traffic Mortality in the USA,R,"How can we find a good strategy for reducing traffic-related deaths?
+",Joel Östblom,PhD Candidate at University of Toronto
+51,Data Science for Social Good: Crime Study,R,"Use data science to catch criminals, plus find new ways to volunteer personal time for social good.
+",William Connell,"PhD Student at University of California, San Francisco"
+52,Partnering to Protect You from Peril,R,"Examine the network of connections among local health departments in the United States.
+",Jenine Harris,Associate Professor at Washington University in St. Louis
+53,Trends in Maryland Crime Rates,R,"Apply hierarchical and mixed-effect models to analyze Maryland crime rates.
+",Richard Erickson,Quantitative Ecologist
+54,"TV, Halftime Shows, and the Big Game",R,"Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows.
+",Erin LaBrecque,Instructor at DataCamp
+55,Clustering Bustabit Gambling Behavior,R,"Use cluster analysis to glean insights into cryptocurrency gambling behavior.
+",Eric Hare,Chief Data Scientist at Omni Analytics Group
+56,Introduction to DataCamp Projects,SQL,"If you've never done a DataCamp project, this is the place to start!
+",David Venturi,Instructor at DataCamp
